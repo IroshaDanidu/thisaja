@@ -63,7 +63,7 @@ Route::get('/admin', function () {
 
 //shop
 
-Route::GET('/shop', 'App\Http\Controllers\ProductController@index');
+Route::GET('/sss', 'App\Http\Controllers\ProductController@index');
 
 
 
